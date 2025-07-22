@@ -110,7 +110,7 @@ var config = {
         },
         {
             id: '4',
-            alignment: 'left',
+            alignment: 'full',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/LXvVhbzQ/MEF-AAP-027-BAP-2025-05-22-13-37-57.png',
