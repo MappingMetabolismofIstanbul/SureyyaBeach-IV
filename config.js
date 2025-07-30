@@ -153,7 +153,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/4wvLgJRn/BAK4.png',
+            image: 'https://i.ibb.co/MD8STvqR/BAK4.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
