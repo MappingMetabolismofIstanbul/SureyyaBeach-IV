@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/7JRBp3pg/4-1.jpg',
+            image: 'https://i.ibb.co/W4LKNJwm/bak1.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
@@ -86,7 +86,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/vCd5TgRB/MEF-AAP-027-BAP-2025-05-22-13-37-16.png',
+            image: 'https://i.ibb.co/WvSVVrCb/bak2.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
@@ -110,10 +110,10 @@ var config = {
         },
         {
             id: '4',
-            alignment: 'full',
+            alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/LXvVhbzQ/MEF-AAP-027-BAP-2025-05-22-13-37-57.png',
+            image: 'https://i.ibb.co/Q72cYyQ3/bak3.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
@@ -149,11 +149,11 @@ var config = {
             
         },
         {
-            id: '4',
-            alignment: 'left',
+            id: '5',
+            alignment: 'full',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/nq8TFfRt/4-5.jpg',
+            image: 'https://i.ibb.co/4wvLgJRn/BAK4.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
