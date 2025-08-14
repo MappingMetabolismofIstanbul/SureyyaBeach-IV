@@ -1,3 +1,4 @@
+
 var config = {
     // style: 'mapbox://styles/mapbox/streets-v12',
     // leave commented to use Mapbox Standard Style
@@ -19,7 +20,7 @@ var config = {
     title: 'Bakireler Anıtı / The Temple of the Virgins',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: 'boş',
@@ -134,10 +135,10 @@ var config = {
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/0pH5Sc2K/s-reyya-giff.gif',
-            description: '',
+            description: 'Bakireler Anıtı’nın zaman içerisinde değişimi / The transformation of the Temple over time',
             location: {
-                center: [29.12420879460502,40.92681852967929],
-                zoom: 16,
+                 center: [29.123988521073176,40.92627744548676],
+                zoom: 17,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -150,19 +151,19 @@ var config = {
         },
         {
             id: '5',
-            alignment: 'full',
+            alignment: 'right',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/MD8STvqR/BAK4.png',
             description: '',
             location: {
-                center: [ 29.12420879460502,40.92681852967929],
-                zoom: 16,
+                center: [29.123988521073176,40.92627744548676],
+                zoom: 18,
                 pitch: 0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
