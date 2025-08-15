@@ -57,7 +57,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/W4LKNJwm/bak1.png',
+            image: 'https://i.ibb.co/chcyXPJP/1.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
@@ -154,7 +154,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/MD8STvqR/BAK4.png',
+            image: 'https://i.ibb.co/9HMhNsYL/3.png',
             description: '',
             location: {
                 center: [29.123988521073176,40.92627744548676],
